@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Website Layout</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        .header {
+            background-color: #f1f1f1;
+            padding: 20px;
+            text-align: center;
+            background-image: url(https://th.bing.com/th/id/R.ca8e5a0abed1116c696c1ef017e50462?rik=2Sogbh0v7sDCKQ&pid=ImgRaw&r=0);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-blend-mode: overlay;
+                    }
+        body{
+            margin: auto;
+        }
+        .topnav {
+            background-color: black;
+            text-align: center;
+            padding: 14px;
+         
+        }
+        .topnav a{
+            color: white;
+            text-decoration: none;
+            margin: 50px;
+
+        }
+        .topnav a:hover {
+            background-color: white;
+            color: black;
+            padding: auto;
+        }
+        .column {
+            float: left;
+            width: 33.33%;
+            padding: 15px;
+            background-color: blanchedalmond;
+            border: solid 5px black;
+         }
+         .column1 {
+            float: left;
+            width: 50%;
+            background-color: blanchedalmond;
+            border: solid 5px black;
+         }
+         .column2 {
+            float: left;
+            width: 50%;
+            background-color: blanchedalmond;
+            border: solid 5px black;
+            text-align: right;
+         }
+        .footer {
+            padding: 5px;
+            text-align: center;
+            background-color:black;
+            color: white;
+        }
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Header</h1>
+    </div>
+    <div class="topnav">
+        <a href="#">Link1</a>
+        <a href="#">Link2</a>
+        <a href="#">Link3</a>
+    </div>
+    <div class="row">
+        <div class="column">
+            <h2>Column</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices in iaculis. Et tortor at risus viverra. Elit pellentesque habitant morbi tristique senectus et netus.</p>
+        </div>
+        <div class="column">
+            <h2>Column</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices in iaculis. Et tortor at risus viverra. Elit pellentesque habitant morbi tristique senectus et netus.</p>
+        </div>
+         <div class="column">
+            <h2>Column</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices in iaculis. Et tortor at risus viverra. Elit pellentesque habitant morbi tristique senectus et netus.</p>
+        </div>
+    </div>
+    <div class="footer">
+        <h1>Footer</h1>
+    </div>
+    <div class="row">
+        <div class="column1">
+            <h2>Column</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices in iaculis. Et tortor at risus viverra. Elit pellentesque habitant morbi tristique senectus et netus.</p>
+        </div>
+         <div class="column2">
+            <h2>Column</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices in iaculis. Et tortor at risus viverra. Elit pellentesque habitant morbi tristique senectus et netus.</p>
+        </div>
+        </div>
+ 
+
+
+</body>
+</html>
