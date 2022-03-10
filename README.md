@@ -1,2 +1,2 @@
 # kondi-projekt
-Bitiaval nem lehet normalisan dolgozni, mert sokat piszkal!
+bence egy hisztis pincsi levente meg kisbuzi
