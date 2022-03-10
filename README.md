@@ -1,3 +1,2 @@
 # kondi-projekt
-if you are reading this you are gay
-
+ha ezt olvasod akkor készülj!
