@@ -1,2 +1,2 @@
 # kondi-projekt
-szolj ra a leventre
+Bitiaval nem lehet normalisan dolgozni, mert sokat piszkal!
