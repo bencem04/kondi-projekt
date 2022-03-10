@@ -1,2 +1,2 @@
 # kondi-projekt
- 
+Üdvözöllek!
