@@ -1,2 +1,2 @@
 # kondi-projekt
-leharapom a faszotokat
+szolj ra a leventre
