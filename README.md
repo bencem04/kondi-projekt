@@ -1,2 +1,2 @@
 # kondi-projekt
-ha ezt olvasod akkor készülj!
+leharapom a faszotokat
