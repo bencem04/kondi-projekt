@@ -76,7 +76,8 @@ h3 {
     border-radius: 2px;
 }
 footer {
-    background-color: dimgray;
+    background-image: url(https://th.bing.com/th/id/OIP.T6lXAKP_qdBqu9ugHSjjvQHaEK?pid=ImgDet&w=640&h=360&rs=1);
+    background-repeat: no-repeat;
     margin: 20px;
     border-radius: 20px;
     color: floralwhite;
