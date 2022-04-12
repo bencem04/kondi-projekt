@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(209, 209, 209);
+}
+.header {
+    background-color: rgba(255, 255, 255, 0.685);
+    color: rgb(0, 255, 64);
+    padding: 20px;
+    text-align: center;
+    background-image: url(https://th.bing.com/th/id/R.1fab8c6468e26ef315dd840e55ccdb17?rik=I5%2bjtRCstiln5Q&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    text-decoration: underline;
+}
+.topnav {
+    background-color: rgba(0, 0, 0, 0.459);
+    text-align: center;
+    padding: 15px;
+}
+.topnav a {
+    color: rgb(0, 255, 64);
+    text-decoration: none;
+    padding: 15px;
+    margin: 10px;
+    margin-top: 10px;
+    line-height: 50px;
+}
+.topnav a:hover {
+    background-color: rgba(255, 255, 255, 0.164);
+    color: rgb(0, 255, 64);
+    border-radius: 2px;
+}
+p {
+    text-align: center;
+}
+.longtext {
+    margin-top: 10px;
+    margin: 15px;
+    background-color: #dddddd;
+    padding-left: 20px; padding-right: 20px;
+    border-radius: 20px;
+}
+.gepek {
+    margin-top: 10px;
+    margin: 15px;
+    background-color: #dddddd;
+    padding-left: 20px; padding-right: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.gyakorlatdiv {
+    margin: 15px;
+    text-align: center;
+    background-color: #dddddd;
+    border-radius: 20px;
+    
+}
+
+h3 {
+    text-align: center;
+    text-decoration:solid;
+}
+.vissza {
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 255, 64);
+    padding: 10px;
+}
+.vissza a {
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+}
+.vissza a:hover {
+    border-radius: 2px;
+}
+footer {
+    background-color: dimgray;
+    margin: 20px;
+    border-radius: 20px;
+    color: floralwhite;
+}
